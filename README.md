@@ -20,7 +20,7 @@
 | Touch Display       | :x:                | :x:                |
 | Camera              | :x:                | :x:                |
 | Sensor              | :x:                | :x:                |
-| M.2 Socket          | :x:                | :x:                |
+| M.2 Socket          | :white_check_mark: | :x:                |
 | RTC                 | :white_check_mark: | :x:                |
 | Cooling Fan         | :white_check_mark: | :x:                |
 | LEDs                | :x:                | :x:                |
