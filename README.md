@@ -19,7 +19,7 @@
 | V-by-One            | :x:                | :x:                |
 | Touch Display       | :x:                | :x:                |
 | Camera              | :x:                | :x:                |
-| Sensor              | :x:                | :x:                |
+| Sensor              | :white_check_mark: | :x:                |
 | M.2 Socket          | :white_check_mark: | :x:                |
 | RTC                 | :white_check_mark: | :x:                |
 | Cooling Fan         | :white_check_mark: | :x:                |
